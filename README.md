@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm ChongQY
 
-大三学生 · Unity 客户端开发方向 · 算法竞赛爱好者
+大三学生 · Unity 客户端开发方向
 
 ---
 
