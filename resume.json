@@ -9,7 +9,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "avatar.png",
+    "src": "https://raw.githubusercontent.com/ChongQY/ChongQY/main/avatar.png",
     "hidden": false
   },
   "profile": {
